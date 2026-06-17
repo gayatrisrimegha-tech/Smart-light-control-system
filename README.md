@@ -30,3 +30,6 @@ Another important advantage of the SmartB Light Control Project is its scalabili
 The project offers several benefits, including reduced energy consumption, improved convenience, enhanced security, and lower operational costs. Users can schedule lighting operations, monitor usage patterns, and create customized automation rules. Such features contribute to efficient resource management and support sustainable energy practices.
 
 In conclusion, the SmartB Light Control Hardware Project is a modern smart lighting solution that combines embedded systems, wireless communication, sensor technology, and automation techniques. It provides an efficient, reliable, and user-friendly method of controlling lights while promoting energy conservation and intelligent building management. The project demonstrates the practical application of IoT and automation technologies in everyday life, making it an excellent solution for modern residential and commercial environments.
+
+*OUTPUT*:
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/e3fc8ad0-6720-45a0-9621-ab5efcbd67bd" />
